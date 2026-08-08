@@ -1,0 +1,6 @@
+{
+  "name": "Salah - Prayer Times & Guide",
+  "description": "A quiet companion for your five daily prayers with live prayer times, weekly schedule, rakaat breakdown, and Islamic quiz.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
